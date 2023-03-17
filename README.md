@@ -6,3 +6,4 @@ This project contian java implementation of 2 CPU scheduling for SJF and RR
 ![SJF Output2](https://user-images.githubusercontent.com/128168258/225962119-78626f68-92d1-4258-a93b-5b9d02bbc247.png)
 ## RR
 <a href="https://github.com/mohamedelsayed112/Assignment/blob/main/RR/src/com/company/Main.java">RR.java</a>
+![RR output](https://user-images.githubusercontent.com/128168258/225966057-d5990ffd-f983-41f5-ae42-a62528fa8b95.png)
